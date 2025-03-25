@@ -66,10 +66,10 @@ export default function Story({id}) {
     {/* is we could build out the comment
     component very similarly to this one
     by using the id of the story.kids */}
-    <CardActions>
+    {/* <CardActions>
       <Button variant="contained">
         Load Comments
       </Button>
-    </CardActions>
+    </CardActions>*/}
   </Card>
 }
